@@ -1,0 +1,11 @@
+1.Master Database [12/1/2020 to 19/1/2020]
+2.Login frontend [19/1/2020 to 26/1/2020]
+3.Finalizing Dashboard and comitting changes [26/1/2020 to 2/2/2020]
+4.Login Backend [2/2/2020 to 9/2/2020]
+5.Adding features to dashboard [9/2/2020 to 16/2/2020]
+6.Rretiving studend and faculty data from data base [16/2/2020 to 23/2/2020]
+7.Integrating Admin, Student, Lab Assisstant Module [23/2/2020 to 30/2/2020]
+8. Adding search filter to Dashboard and change password for user [6/3/2020 to 13/3/2020]
+9. Logout Page and displaying current user name [13/3/2020 to 20/3/2020]
+10.Displaying equipments details in lab [20/3/2020 to 27/3/2020]
+
